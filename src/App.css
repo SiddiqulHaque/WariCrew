@@ -1,0 +1,8 @@
+.control-dots{
+  background-color: aquamarine;
+}
+.button__bar ul button:hover,
+.button__bar ul button:focus {
+  background: rgba(247, 34, 34, 0.8);
+  outline: 0;
+}

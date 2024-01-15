@@ -1,0 +1,16 @@
+.slick-dots .slick-active .dot {
+    /* Your styles for the active dot go here */
+    background-color: #f5a623;
+    /* Example: Red color for active dot */
+}
+
+.slick-dots .dot:hover {
+    background-color: #f5a623;
+}
+
+.dot {
+    width: 0.85rem;
+    height: 0.85;
+    border-radius: 50%;
+    background-color: #F8F193;
+}
